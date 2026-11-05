@@ -1,0 +1,6 @@
+﻿# 代码编辑器配置
+.vscode/
+
+# 模型协作相关文件
+Agent.md
+ToDo.md
